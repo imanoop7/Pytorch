@@ -3,6 +3,6 @@
 
 thanks- https://www.learnpytorch.io/00_pytorch_fundamentals/
 
-1.Introduction_to_tensors.ipynb
-2.pytorch_workflow.ipynb
-3.Neural_Network_Classification.ipynb
+### 1.Introduction_to_tensors.ipynb 
+### 2.pytorch_workflow.ipynb
+### 3.Neural_Network_Classification.ipynb
