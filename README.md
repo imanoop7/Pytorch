@@ -4,7 +4,7 @@
 thanks- https://www.learnpytorch.io/00_pytorch_fundamentals/
 
 ## Notebook:
-### 1.Introduction_to_tensors.ipynb 
-### 2.pytorch_workflow.ipynb
-### 3.Neural_Network_Classification.ipynb
-### 4.computer_vision_workflow.ipynb
+* [Introduction_to_tensors.ipynb](https://github.com/imanoop7/Pytorch/blob/main/Introduction_to_tensors.ipynb)
+* [pytorch_workflow.ipynb](https://github.com/imanoop7/Pytorch/blob/main/pytorch_workflow.ipynb)
+* [Neural_Network_Classification.ipynb](https://github.com/imanoop7/Pytorch/blob/main/Neural_Network_Classification.ipynb)
+* [computer_vision_workflow.ipynb](https://github.com/imanoop7/Pytorch/blob/main/computer_vision_workflow.ipynb)
