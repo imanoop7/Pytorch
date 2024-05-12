@@ -8,3 +8,4 @@ thanks- https://www.learnpytorch.io/00_pytorch_fundamentals/
 * [pytorch_workflow.ipynb](https://github.com/imanoop7/Pytorch/blob/main/pytorch_workflow.ipynb)
 * [Neural_Network_Classification.ipynb](https://github.com/imanoop7/Pytorch/blob/main/Neural_Network_Classification.ipynb)
 * [computer_vision_workflow.ipynb](https://github.com/imanoop7/Pytorch/blob/main/computer_vision_workflow.ipynb)
+* [custom_data.ipynb](https://github.com/imanoop7/Pytorch/blob/main/custom_data.ipynb)
