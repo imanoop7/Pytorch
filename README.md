@@ -12,6 +12,10 @@ Here's a list of notebooks available in this repository:
 - **computer_vision_workflow.ipynb**: Implementing computer vision tasks with PyTorch, including image classification and object detection.
 - **custom_data.ipynb**: Instructions on how to load and work with custom datasets in PyTorch.
 - **custom_dataset_1.ipynb**: Instructions on how to load and work with custom datasets in PyTorch.
+- **transfer_learning.ipynb**: Implementing transfer learning techniques to leverage pre-trained models in PyTorch.
+- **experiment_tracking.ipynb**:  A guide to tracking and managing PyTorch experiments for reproducibility and analysis.
+- **VIT_from_scratch.ipynb**: Building a Vision Transformer (ViT) model from scratch using PyTorch.
+- **food_vision_mini_project**: A project focused on image classification of food using PyTorch.
 
 ## Getting Started
 
