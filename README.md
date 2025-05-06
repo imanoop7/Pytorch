@@ -16,6 +16,7 @@ Here's a list of notebooks available in this repository:
 - **experiment_tracking.ipynb**:  A guide to tracking and managing PyTorch experiments for reproducibility and analysis.
 - **VIT_from_scratch.ipynb**: Building a Vision Transformer (ViT) model from scratch using PyTorch.
 - **food_vision_mini_project**: A project focused on image classification of food using PyTorch.
+- **model_deployment.ipynb**: A guide to deploying PyTorch models for inference.
 
 ## Getting Started
 
